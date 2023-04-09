@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+//THIS IS MY VERY FIRST JAVA SWING PROJECT "A basic calculator"
+
 public class JSCalculator implements ActionListener{
 
     JFrame jf;
